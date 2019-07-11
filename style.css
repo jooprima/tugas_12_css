@@ -17,7 +17,7 @@ nav, a {
 
 main {
   padding: 25px;
-  background-color: lightBlue;
+  background-color: #A1C4FD;
   color: black;
 }
 
@@ -29,10 +29,12 @@ footer {
 
 div.slider img.slider-img {
   width: 100%;
-  height: 800px;
+  height: 650px;
 }
 
 div img.image {
+  width: 220px;
+  /* height: 400px; */
   float: left;
   margin-top: 20px;
   margin-right: 15px;
