@@ -1,0 +1,46 @@
+header, footer {
+  background-color: black;
+  color: white;
+}
+
+header {
+  height: 50px;
+}
+
+nav, a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  word-spacing: 15px;
+  padding: 15px 10px;
+}
+
+main {
+  padding: 25px;
+  background-color: lightBlue;
+  color: black;
+}
+
+footer {
+  text-align: center;
+  font-weight: bold;
+  height: 50px;
+}
+
+div.slider img.slider-img {
+  width: 100%;
+  height: 800px;
+}
+
+div img.image {
+  float: left;
+  margin-top: 20px;
+  margin-right: 15px;
+}
+
+p.p-text {
+  column-count: 4;
+  column-fill: balance;
+  column-rule: 2px solid black;
+  text-align: justify;
+}
